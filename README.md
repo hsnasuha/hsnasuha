@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=ffb6c1&height=200&section=header&text=Hi%20there,%20I'm%20Hasanah!%20🌸&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%"/>
+![Hasanatun Nasuha](img/github-header-banner.png)
 
-<br>
 
 ### ✨ "Code like a girl, dream like a queen." ✨
 *(Undergraduate Student | Future Developer | Creative Soul)*
